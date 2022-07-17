@@ -1,2 +1,2 @@
 # RestaurantManager-API
-Duo Cosmique
+Basic API manager for restaurant
